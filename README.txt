@@ -10,11 +10,11 @@ Currently there are scripts in place that can individually pull the following:
 - Depositor information
 - ATM/ITM Model
 - ATM PC Core Type
+- Terminal ID
 
 ###Future Features
 Currently there are several features roadmapped for the near future:
 - SPS Antiskimming Informatiom
-- Terminal ID
 - Card Reader information
 - Touch Screen information
 - ATM Patches / Windows Patches
